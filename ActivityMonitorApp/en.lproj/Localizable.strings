@@ -1,0 +1,207 @@
+/* 
+ Localizable.strings
+ ActivityMonitorApp
+ 
+ Created by Seasoft on 9/27/17.
+ Copyright © 2017 Mai Nguyen Quang Tri. All rights reserved.
+ */
+
+
+// MARK: - FOR ALL CONTROLLERS ---
+
+"walking" = "Walking";
+"running" = "Running";
+"bicycling" = "Bicycling";
+
+"OK" = "OK";
+"cancel" = "Cancel";
+"wifi"  = "WiFi Connection";
+
+"today" = "Today";
+"yesterday" = "Yesterday";
+
+"Sunday" = "Sun";
+"Monday" = "Mon";
+"Tuesday" = "Tue";
+"Wednesday" = "Wed";
+"Thursday" = "Thu";
+"Friday" = "Fri";
+"Saturday" = "Sat";
+
+"January" = "January";
+"February" = "February";
+"March" = "March";
+"April" = "April";
+"May" = "May";
+"June" = "June";
+"July" = "July";
+"August" = "August";
+"September" = "September";
+"October" = "October";
+"November" = "November";
+"December" = "December";
+
+"please_wait" = "Please wait...";
+"noNetworkTitle" = "Error";
+"noNetworkDescription" = "The network is not available.";
+
+
+
+// MARK: - ACCOUNT CONTROLLERS ---
+
+// MARK: LoginViewController
+
+"login_vc_title" = "LET'S START";
+
+"login_vc_google" = "LOGIN WITH";
+"login_vc_facebook" = "LOGIN WITH";
+
+
+
+// MARK: - TAB BAR REPORT CONTROLLERS ---
+
+// MARK: ReportViewController
+
+"report_vc_title" = "History";
+
+"report_vc_this_week" = "This week";
+"report_vc_last_week" = "Last week";
+"report_vc_older" = "Older than 2 weeks";
+
+
+// MARK: FilterViewController
+
+"filter_vc_title" = "Filter";
+
+"filter_vc_filter_by_activity" = "Filter by activity:";
+"filter_vc_filter_by_time" = "Filter by time:";
+"filter_vc_other" = "Other";
+
+"filter_vc_all_time" = "All time";
+"filter_vc_week" = "This week";
+"filter_vc_month" = "This month";
+"filter_vc_year" = "This year";
+"filter_vc_custom" = "Custom time";
+
+
+// MARK: DateTimePickerViewController
+
+"date_time_picker_vc_title" = "Select Date";
+
+"date_time_picker_vc_from_day" = "From day:";
+"date_time_picker_vc_to_day" = "To day:";
+"date_time_picker_vc_other" = "Other";
+
+"date_time_picker_vc_alert_tilte" = "Attention!";
+"date_time_picker_vc_alert_subtitle" = "Date From must be smaller than Date To.";
+
+
+// MARK: CalendarViewController
+
+"calendar_vc_title" = "Calendar";
+
+"calendar_vc_today_button" = "Today";
+
+"calendar_vc_sunday" = "S";
+"calendar_vc_monday" = "M";
+"calendar_vc_tuesday" = "T";
+"calendar_vc_wednesday" = "W";
+"calendar_vc_thursday" = "T";
+"calendar_vc_friday" = "F";
+"calendar_vc_saturday" = "S";
+
+
+
+// MARK: - TAB BAR HOME CONTROLLERS ---
+
+// MARK: HomeActivityViewController
+
+"home_activity_vc_title" = "Activity Monitor";
+"home_activity_vc_location_alert" = "Please turn on the location";
+
+"home_activity_vc_start_button" = "START";
+"home_activity_vc_enable_gps_button" = "ENABLE GPS";
+
+
+// MARK: ActivityViewController
+
+"activity_vc_pause_button" = "PAUSE";
+"activity_vc_resume_button" = "RESUME";
+"activity_vc_stop_button" = "STOP";
+"activity_vc_start_point" = "Start point";
+"activity_vc_end_point" = "End point";
+
+
+// MARK: ResultActivityViewController
+
+"result_activity_vc_save_button" = "SAVE";
+"result_activity_vc_cancel_button" = "CANCEL";
+"result_activity_vc_delete_button" = "DELETE";
+"result_activity_vc_add_second" = "Add %d seconds";
+"result_activity_vc_start_immediately" = "Tap to start immediately";
+"result_activity_vc_total_distance" = "total distance";
+"result_activity_vc_total_time" = "total time";
+"result_activity_vc_average_speed" = "average speed";
+"result_activity_vc_calories" = "calories";
+
+
+
+// MARK: - TAB BAR SETTING CONTROLLERS ---
+
+// MARK: SettingsViewController
+
+"settings_vc_title" = "Setting";
+
+"settings_vc_laguage" = "Language";
+"en" = "English";
+"vi" = "Vietnamese";
+
+"settings_vc_distance" = "Distance";
+"kilometers" = "Kilometers";
+"miles" = "Miles";
+
+"settings_vc_coundown_delay" = "Coundown Delay";
+"seconds" = "seconds";
+
+"settings_vc_user_profile" = "User Profile";
+
+"settings_vc_logout" = "Logout";
+"settings_vc_logout_title" = "Logout";
+"settings_vc_logout_subTitle" = "Do you want to logout from this device?";
+
+
+// MARK: SettingSelectionViewController
+
+// MARK: ActivityMenu
+
+"activity_menu_title" = "ACTIVITY";
+
+
+// MARK: UserProfileViewController
+
+"user_profile_my_fitness_info" = "My Fitness Info";
+"user_profile_skip" = "Skip";
+"user_profile_provide_your_info___" = "Cung cấp thông tin sẽ đảm bảo cho những đo lường trong tập luyện của chúng tôi được chính xác hơn.";
+"user_profile_gender" = "Gender";
+"user_profile_weight" = "Weight";
+"user_profile_birth_day" = "Birth Day";
+"user_profile_unit_distance" = "Unit distance";
+"user_profile_male" = "Male";
+"user_profile_female" = "Female";
+"user_profile_not_specified" = "Not Specified";
+"user_profile_none" = "None";
+"user_profile_save_info" = "SAVE INFOMATION";
+
+"user_profile_choose_your_weight" = "Choose your weigth";
+"user_profile_choose_your_birth_day" = "Choose you birth day";
+"user_profile_choose_your_gender" = "Choose your gender";
+"user_profile_choose_your_uinit_distance" = "Choose your uinit distance";
+"user_profile_choose_done" = "Done";
+
+
+
+
+
+
+
+

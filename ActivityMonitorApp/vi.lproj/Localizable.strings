@@ -1,0 +1,211 @@
+/* 
+ Localizable.strings
+ ActivityMonitorApp
+ 
+ Created by Seasoft on 9/27/17.
+ Copyright © 2017 Mai Nguyen Quang Tri. All rights reserved.
+ */
+
+
+// MARK: - FOR ALL CONTROLLERS ---
+
+"walking" = "Đi Bộ";
+"running" = "Chạy Bộ";
+"bicycling" = "Đạp Xe";
+
+"OK" = "OK";
+"cancel" = "Huỷ";
+"wifi"  = "Kết nối WiFi";
+
+"today" = "Hôm nay";
+"yesterday" = "Hôm qua";
+
+"Sunday" = "Chủ Nhật";
+"Monday" = "Thứ 2";
+"Tuesday" = "Thứ 3";
+"Wednesday" = "Thứ 4";
+"Thursday" = "Thứ 5";
+"Friday" = "Thứ 6";
+"Saturday" = "Thứ 7";
+
+"January" = "Tháng 1";
+"February" = "Tháng 2";
+"March" = "Tháng 3";
+"April" = "Tháng 4";
+"May" = "Tháng 5";
+"June" = "Tháng 6";
+"July" = "Tháng 7";
+"August" = "Tháng 8";
+"September" = "Tháng 9";
+"October" = "Tháng 10";
+"November" = "Tháng 11";
+"December" = "Tháng 12";
+
+"please_wait" = "Vui lòng chờ...";
+"noNetworkTitle" = "Lỗi";
+"noNetworkDescription" = "Mạng không khả dụng.";
+
+
+
+// MARK: - ACCOUNT CONTROLLERS ---
+
+// MARK: LoginViewController
+
+"login_vc_title" = "BẮT ĐẦU";
+
+"login_vc_google" = "ĐĂNG NHẬP VỚI";
+"login_vc_facebook" = "ĐĂNG NHẬP VỚI";
+
+
+
+// MARK: - TAB BAR REPORT CONTROLLERS ---
+
+// MARK: ReportViewController
+
+"report_vc_title" = "Lịch Sử";
+
+"report_vc_this_week" = "Tuần này";
+"report_vc_last_week" = "Tuần trước";
+"report_vc_older" = "Hơn 2 tuần trước";
+
+
+// MARK: FilterViewController
+
+"filter_vc_title" = "Lọc";
+
+"filter_vc_filter_by_activity" = "Lọc theo hoạt động:";
+"filter_vc_filter_by_time" = "Lọc theo thời gian:";
+"filter_vc_other" = "Khác";
+
+"filter_vc_all_time" = "Tất cả thời gian";
+"filter_vc_week" = "Tuần này";
+"filter_vc_month" = "Tháng này";
+"filter_vc_year" = "Năm nay";
+"filter_vc_custom" = "Thời gian tùy chỉnh";
+
+
+// MARK: DateTimePickerViewController
+
+"date_time_picker_vc_title" = "Chọn Ngày";
+
+"date_time_picker_vc_from_day" = "Từ ngày:";
+"date_time_picker_vc_to_day" = "Đến ngày:";
+"date_time_picker_vc_other" = "Khác";
+
+"date_time_picker_vc_alert_tilte" = "Chú ý!";
+"date_time_picker_vc_alert_subtitle" = "Ngày bắt đầu phải nhỏ hơn ngày kết thúc.";
+
+
+// MARK: CalendarViewController
+
+"calendar_vc_title" = "Lịch";
+
+"calendar_vc_today_button" = "Hôm nay";
+
+"calendar_vc_sunday" = "CN";
+"calendar_vc_monday" = "T2";
+"calendar_vc_tuesday" = "T3";
+"calendar_vc_wednesday" = "T4";
+"calendar_vc_thursday" = "T5";
+"calendar_vc_friday" = "T6";
+"calendar_vc_saturday" = "T7";
+
+
+
+// MARK: - TAB BAR HOME CONTROLLERS ---
+
+// MARK: HomeActivityViewController
+
+"home_activity_vc_title" = "Giám Sát Hoạt Động";
+"home_activity_vc_location_alert" = "Vui lòng bật vị trí";
+
+"home_activity_vc_start_button" = "BẮT ĐẦU";
+"home_activity_vc_enable_gps_button" = "BẬT GPS";
+
+
+// MARK: ActivityViewController
+
+"activity_vc_pause_button" = "TẠM DỪNG";
+"activity_vc_resume_button" = "TIẾP TỤC";
+"activity_vc_stop_button" = "DỪNG";
+"activity_vc_start_point" = "Điểm bắt đầu";
+"activity_vc_end_point" = "Điểm kết thúc";
+
+
+// MARK: ResultActivityViewController
+
+"result_activity_vc_add_second" = "Thêm %d giây";
+"result_activity_vc_start_immediately" = "Chạm để tập ngay";
+"result_activity_vc_total_distance" = "quảng đường";
+"result_activity_vc_total_time" = "thời gian";
+"result_activity_vc_average_speed" = "tốc độ";
+"result_activity_vc_save_button" = "LƯU";
+"result_activity_vc_cancel_button" = "HỦY";
+"result_activity_vc_delete_button" = "XOÁ";
+"result_activity_vc_calories" = "calo";
+
+
+
+// MARK: - TAB BAR SETTING CONTROLLERS ---
+
+// MARK: SettingsViewController
+
+"settings_vc_title" = "Cài Đặt";
+
+"settings_vc_laguage" = "Ngôn Ngữ";
+"en" = "Tiếng Anh";
+"vi" = "Tiếng Việt";
+
+"settings_vc_distance" = "Khoảng Cách";
+"kilometers" = "Kilômet";
+"miles" = "Dặm";
+
+"settings_vc_coundown_delay" = "Đếm Ngược";
+"seconds" = "giây";
+
+"settings_vc_user_profile" = "Thông Tin Người Dùng";
+
+"settings_vc_logout" = "Đăng Xuất";
+"settings_vc_logout_title" = "Đăng Xuất";
+"settings_vc_logout_subTitle" = "Bạn có muốn đăng xuất khỏi thiết bị này?";
+
+
+// MARK: SettingSelectionViewController
+
+// MARK: ActivityMenu
+
+"activity_menu_title" = "HOẠT ĐỘNG";
+
+
+// MARK: UserProfileViewController
+
+"user_profile_my_fitness_info" = "Thông Tin Hoạt Động";
+"user_profile_skip" = "Bỏ qua";
+"user_profile_provide_your_info___" = "Cung cấp thông tin sẽ đảm bảo cho những đo lường trong tập luyện của chúng tôi được chính xác hơn.";
+"user_profile_gender" = "Giới tính";
+"user_profile_weight" = "Cân nặng";
+"user_profile_birth_day" = "Ngày sinh";
+"user_profile_unit_distance" = "Đơn vị đó khoảng cách";
+"user_profile_male" = "Nam";
+"user_profile_female" = "Nữ";
+"user_profile_not_specified" = "Không xác định";
+"user_profile_none" = "Chọn";
+"user_profile_save_info" = "LƯU THÔNG TIN";
+
+"user_profile_choose_your_weight" = "Chọn cân nặng";
+"user_profile_choose_your_birth_day" = "Chọn ngày sinh";
+"user_profile_choose_your_gender" = "Chọn giới tính";
+"user_profile_choose_your_uinit_distance" = "Chọn đơn vị quảng đường";
+"user_profile_choose_done" = "Xong";
+
+
+
+
+
+
+
+
+
+
+
+

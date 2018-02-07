@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "English"; ObjectID = "1l1-JG-bJh"; */
+"1l1-JG-bJh.text" = "English";
+
+/* Class = "UILabel"; text = "Report"; ObjectID = "BgQ-Ai-9fE"; */
+"BgQ-Ai-9fE.text" = "Report";
+
+/* Class = "UIButton"; normalTitle = "START"; ObjectID = "kKQ-5C-pw1"; */
+"kKQ-5C-pw1.normalTitle" = "START";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "oaf-2e-CS1"; */
+"oaf-2e-CS1.title" = " ";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "og6-xf-Sv3"; */
+"og6-xf-Sv3.text" = "English";
+
+/* Class = "UILabel"; text = "RUNNING"; ObjectID = "xt9-5i-QFh"; */
+"xt9-5i-QFh.text" = "RUNNING";
+
+/* Class = "UILabel"; text = "Language"; ObjectID = "yoN-ML-qdC"; */
+"yoN-ML-qdC.text" = "Language";
